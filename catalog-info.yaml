@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: crossedheadx/mu-service
     backstage.io/techdocs-ref: url:https://github.com/crossedheadx/mu-service
+    sonarqube.org/project-key: crossedheadx_mu-service
 spec:
   type: service
   lifecycle: experimental
