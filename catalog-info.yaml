@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "spring-mu"
+  description: "mu service in spring"
+  annotations:
+    github.com/project-slug: crossedheadx/mu-service
+    backstage.io/techdocs-ref: url:https://github.com/crossedheadx/mu-service
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "crossedheadx"

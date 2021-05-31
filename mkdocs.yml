@@ -1,0 +1,8 @@
+site_name: "spring-mu"
+site_description: "mu service in spring"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
